@@ -1,0 +1,6 @@
+testing: True
+map_origin : [0, 0] 
+goal_coordinates:
+  A: [2,2]
+  B: [3,3]
+  C: [4,4]

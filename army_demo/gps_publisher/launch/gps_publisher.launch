@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="gps_publisher" type="gps.py" name="gps_pub" output="screen">
+    </node>
+    <!-- <node pkg="tf" type="static_transform_publisher" name="link1_broadcaster" args="0.0 0.0 37.0 0.0 0.0 0.0 1.0 base_link gps 100" /> -->
+</launch>
